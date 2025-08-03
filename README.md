@@ -73,7 +73,3 @@ The project is organized into clearly separated folders for maintainability and 
 - Experience in both **frontend frameworks** and **backend API/server development**.
 - Understanding of healthcare web platform challenges—data privacy, modularity, responsiveness, and admin tooling.
 
----
-
-> *This repository is a testament to your full-stack software engineering skills, showcasing thoughtful architecture, industry best practices, and the ability to create effective, maintainable solutions for complex domains like healthcare.*
-
